@@ -1,2 +1,11 @@
 # Biblioteca
-Projeto para sistema de biblioteca. Conceito utilizado: Programação Orientada a Objetos (POO) com Java. Banco de dados implementado em PostgreSQL. Atividade do curso Dev Full Stack da +praTi.   
+Projeto desenvolvido para um sistema de biblioteca, aplicando conceitos de Programação Orientada a Objetos (POO) com Java e utilizando PostgreSQL para persistência dos dados.
+
+# Tecnologias e conceitos
+- Java
+- Programação Orientada a Objetos (POO)
+- PostgreSQL
+  
+# Contexto 
+Atividade desenvolvida durante o curso Dev Full Stack da +PraTi.
+
